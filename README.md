@@ -54,18 +54,6 @@ I'm a Full Stack Developer with 5+ years of experience building scalable applica
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Oshri's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshri134&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshri134&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💼 What I Do
 
 - 🤖 **AI/LLM Integration** - Integrating OpenAI, Claude, and Gemini APIs into production applications
