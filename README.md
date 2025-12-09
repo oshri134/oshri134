@@ -19,7 +19,7 @@ I'm a Full Stack Developer with 5+ years of experience building scalable applica
 - 🔭 Currently working on **AI-powered SaaS platforms**
 - 🌱 Exploring advanced **LLM integrations** and **microservices architecture**
 - 💼 Available for **freelance/contract** opportunities
-- 📍 Based in **Kfar Saba, Israel**
+
 
 ---
 
