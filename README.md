@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer with 5+ years of experience building scalable applications serving 600+ users. I specialize in modern web technologies and AI/LLM integrations, creating solutions that bridge cutting-edge AI capabilities with robust full-stack applications.
+I'm a Full Stack Developer with 6+ years of experience building scalable applications serving 600+ users. I specialize in modern web technologies and AI/LLM integrations, creating solutions that bridge cutting-edge AI capabilities with robust full-stack applications.
 
 - 🔭 Currently working on **AI-powered SaaS platforms**
 - 🌱 Exploring advanced **LLM integrations** and **microservices architecture**
