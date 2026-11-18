@@ -5,7 +5,7 @@
 ### Full Stack Developer | AI/LLM Integration Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshri-shekuri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://oshriwd.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.oshri3d.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oshri@oshriwd.com)
 
 </div>
@@ -77,7 +77,7 @@ I'm a Full Stack Developer with 5+ years of experience building scalable applica
 I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oshri-shekuri)
-- 🌐 [Portfolio](https://oshriwd.com)
+- 🌐 [Portfolio](https://www.oshri3d.dev)
 - 📧 [oshri@oshriwd.com](mailto:oshri@oshriwd.com)
 
 ---
